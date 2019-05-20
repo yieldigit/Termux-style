@@ -1,0 +1,3 @@
+cowsay -f eyes "Style"
+toilet -f standard "Kali" -F gay
+neofetch
